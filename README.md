@@ -1,7 +1,7 @@
-Project Title
+#Project Title
 This is an Image Resizer project which uses the capabilities of NodeJS and Cloudinary combined which allows to resize the image to a lower size (around 50% percent or less). At this moment the API takes a CSV file with the format mentioned and parses the CSV file after which the current file data is obtained as well as the new URL of the compressed image is obtained on ./data endpoint.
 
-Improvements and Contributions
+#Improvements and Contributions
 Anyone who wants to contribute is welcome and can download the project locally in their systems. All one needs is NodeJS and Cloudinary account for other credentials.
 
 The improvements currently under development is adding MongoDB as the database to store the processed URLs.
